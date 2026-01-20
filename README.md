@@ -19,7 +19,7 @@
 ## 🚀 About Me
 I build **data-driven and full-stack products** at the intersection of business, analytics, and software engineering.
 
-- 🎓 ITMB student (2024–2028)
+- 🎓 ITMB student (2024–2027)
 - 🧠 Strong focus on **data, dashboards & product analytics**
 - 🛠 Experience across **banking, healthcare, B2B SaaS**
 - 🏆 Multi-award hackathon participant
